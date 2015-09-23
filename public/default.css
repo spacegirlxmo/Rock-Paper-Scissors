@@ -1,0 +1,38 @@
+body {
+  background-color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 12pt;
+}
+
+h1 {
+  font-size: 24pt;
+  text-align: center;
+  color: #FF9108;
+}
+
+button {
+  background-color: #2E0854;
+  color: #FFFFFF;
+}
+
+div#game {
+  text-align: center;
+  color: #66CCCC;
+  font-size: 18pt;
+}
+
+div#output {
+  background-color: #FFFFFF;
+  padding: 10px;
+  width: 15%;
+  margin: auto;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+img#compchoice {
+  display: none;
+}
